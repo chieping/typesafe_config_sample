@@ -2,4 +2,4 @@
 
 export environment="sy-np"
 
-sbt run
+sbt "run load"
